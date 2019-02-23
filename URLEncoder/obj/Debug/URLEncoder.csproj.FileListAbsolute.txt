@@ -1,0 +1,2 @@
+c:\users\nickm\source\repos\URLEncoder\URLEncoder\obj\Debug\URLEncoder.csprojAssemblyReference.cache
+c:\users\nickm\source\repos\URLEncoder\URLEncoder\obj\Debug\URLEncoder.csproj.CoreCompileInputs.cache
